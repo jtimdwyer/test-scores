@@ -1,4 +1,5 @@
 # ACT & SAT Data Analysis for 2017
+_By Tim Dwyer_
 
 
 This repository contains an analysis of ACT and SAT scores administered in the United States in 2017. I used Python, Pandas, Matplotlib and Seaborn to create visual representations of the data and Scipy to compute summary statistics and run hypothesis tests. In my exploration of the data I discovered an inverse relationship between scores on a given test and participation rates for that test. The data contains, for each state, one mean score for each section of each test and the mean overall score.
